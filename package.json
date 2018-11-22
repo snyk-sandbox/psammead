@@ -25,7 +25,8 @@
   "homepage": "https://github.com/bbc/psammead#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "speculate": "^1.7.4"
+    "speculate": "^1.7.4",
+    "styled-components": "^3.4.10"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.11",
@@ -37,17 +38,17 @@
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
     "babel-loader": "^7.1.5",
-    "babel-plugin-styled-components": "^1.5.1",
+    "babel-plugin-styled-components": "^1.7.1",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "glob-loader": "^0.3.0",
     "jest": "^23.6.0",
-    "jest-fetch-mock": "^1.6.5",
-    "jest-styled-components": "^5.0.1",
+    "jest-fetch-mock": "^1.7.4",
+    "jest-styled-components": "^6.2.2",
     "lerna": "^3.3.1",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0",
-    "react-test-renderer": "^16.5.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-test-renderer": "^16.6.3",
     "storybook-readme": "^4.0.0-beta1"
   },
   "jest": {
